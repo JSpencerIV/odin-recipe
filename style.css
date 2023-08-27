@@ -1,4 +1,29 @@
-.center_content,
-h1 {
+body {
+  background-image: url("images/food_image.png");
+}
+
+.apple {
+  background-image: url("images/apple_tree.jpeg");
+}
+
+#text-color {
+  color: white;
+}
+
+div.c-center,
+h1,
+img {
   text-align: center;
+}
+
+ul.list_center {
+  display: inline-block;
+  text-align: left;
+  color: white;
+}
+
+a {
+  font-size: large;
+  font-weight: bold;
+  color: white;
 }
