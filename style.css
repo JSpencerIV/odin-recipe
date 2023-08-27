@@ -1,12 +1,4 @@
-body {
-  background-image: url("images/food_image.png");
-}
-
-.apple {
-  background-image: url("images/apple_tree.jpeg");
-}
-
-#text-color {
+.odinpage {
   color: white;
 }
 
