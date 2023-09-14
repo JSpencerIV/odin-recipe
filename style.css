@@ -6,8 +6,9 @@ div.c-center,
 h1,
 img {
   text-align: center;
-  margin: 8px;
+  margin: 0px;
   padding: 8px;
+  box-shadow: 8px slategray;
 }
 
 ul ul.list_center {
